@@ -18,4 +18,4 @@
 
 <img src="./08_01.png" alt="gitignore in visual studio" width="400"/>
 
-[< К содержанию](./README.md) | [Далее >](./05_end.md) 
+[< К содержанию](./README.md) | [Далее >](./06_end.md) 
