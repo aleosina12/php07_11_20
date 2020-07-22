@@ -10,14 +10,14 @@
 
 Существует много систем контроля версий, в том числе и для программистов, из них наиболее популярная - **Git**. 
 
-<img src="./gitlogo.png" alt="gitb logo" width="250"/>
+<img src="./github-logo.png" alt="gitb logo" width="250"/>
 
 
 Это свободная распределенная система контроля версий, создана [Линусом Торвальдсом](https://ru.wikipedia.org/wiki/Торвальдс,_Линус) при разработке Linux. 
 
 Для работы с Git нужно, во первых, [установить](https://devpractice.ru/git-for-beginners-part-2-install-git/) локальный клиент на свой компьютер. А также нужен сервер, с которым будем синхронизироваться. Можно запустить свой сервер или использовать популярные сервисы [Github](https://github.com/) или [Gitlab](https://about.gitlab.com/). Мы будем использовать Github, зарегистрируйтесь в нём.
 
-<img src="./gitlogo.png" alt="gitb logo" width="300"/>>
+<img src="./github-logo.png" alt="gitb logo" width="300"/>>
 
 После этого запустить командную строку и через [git config](./command_config.md) прописать то же имя пользователя и почту, что и при регистрации на Github. Всё готово для работы!
 
