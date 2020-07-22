@@ -22,6 +22,6 @@
 После этого запустить командную строку и через [git config](./command_config.md) прописать то же имя пользователя и почту, что и при регистрации на Github. Всё готово для работы!
 
 ---
-[< К содержанию](./readme.md) | [Далее >](./02_you_need_vcs.md) 
+[< К содержанию](./README.md) | [Далее >](./02_workflow.md) 
 
 *GIT Logo by [Jason Long](http://git-scm.com/downloads/logos). Octocat and Github logo by [github.com](https://github.com/logos)*
