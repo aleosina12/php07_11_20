@@ -13,7 +13,7 @@
 2. [Рабочий процесс в git](./02_workflow.md)
 3. [Коммиты](./03_commit.md)
 4. [Слияния и конфликты](./04_merge.md)
-5. [Файл .gitignore](./05_gitignore.md)
+5. [Файл .gitignore](./04_gitignore.md)
 6. [Заключение](./06_end.md)
 ---
 
